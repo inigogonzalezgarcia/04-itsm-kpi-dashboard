@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+
+# Generated data and reports (may contain real ticket data)
+sample_data/
+output/
+*.json
+*.csv
+
+# Local AI tooling
+.claude/
+.agents/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
