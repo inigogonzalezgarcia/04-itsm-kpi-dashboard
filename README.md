@@ -96,7 +96,7 @@ Inspired by years of running service delivery for multi-site IT teams, where wee
 
 Need a version adapted to your environment (your own SLA rules and business hours, other ITSM tools, a scheduled report by email or Teams)? Get in touch:
 
-- Email: [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es)
+- Website (contact form): [inigogonzalezgarcia.github.io](https://inigogonzalezgarcia.github.io/about.html#contacto)
 - LinkedIn: [linkedin.com/in/igonzalez93](https://www.linkedin.com/in/igonzalez93)
 
 ## License
